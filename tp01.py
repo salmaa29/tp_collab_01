@@ -1,1 +1,5 @@
-# Créer une fonction qui renvoie le texte en majuscule
+#creer une fonction qui renvoie le message majuscule
+def message_majuscule(message):
+    return message.upper()
+
+
